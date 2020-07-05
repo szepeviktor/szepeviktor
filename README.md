@@ -1,6 +1,6 @@
-# Good day! :wave:
+# Good day! 👋
 
-# Jó napot kívánok! :wave:
+# Jó napot kívánok! 👋
 
 I work for web application manufacturers.
 
