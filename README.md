@@ -9,7 +9,8 @@ I work for web application manufacturers.
 - 🕒 Working non-stop
 - 🔍 Researching all areas of planning, development, running a web application
 - 🎯 Focusing on Sustainability
-- 🍇 Fruits: stability, vulnerability, performance
+- 🍇 Fruits: stability, security, performance
 - 🔓 All my knowledge is open-source
+- ⛏️ Creator of WordPress extension for PHPStan
 - ⚗️ Janitor at Larastan: static analysis for Laravel
 - 🌐 Former WP-CLI contributor
