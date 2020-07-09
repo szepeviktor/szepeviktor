@@ -12,6 +12,6 @@ I work for web application manufacturers.
 - 🍇 Fruits: stability, security, performance, paranoid monitoring
 - 🔓 All my **knowledge** is open-source
 - ⚙️ I'm not a developer (at least from _your_ viewpoint)
-- ⛏️ Creator of WordPress extension for PHPStan
 - ⚗️ Janitor at Larastan: static analysis for Laravel
+- ⛏️ Author of WordPress extension for PHPStan
 - 🌐 Former WP-CLI contributor
