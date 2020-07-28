@@ -4,7 +4,7 @@
 
 I work for web application manufacturers.
 
-- 👹 Harmful for your business in the short run
+- 👹 Harmful to your business in the short run
 - 💡 Super useful in the long run
 - 🕒 Working non-stop
 - 🔍 **Researching** all areas of planning, development, running a web application
