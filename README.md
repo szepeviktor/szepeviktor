@@ -10,7 +10,7 @@ I work for web application manufacturers.
 - 🔍 **Researching** all areas of planning, development, running a web application
 - 🎯 Focusing on **Sustainability**
 - 🍇 Fruits: stability, security, performance, paranoid monitoring
-- 🔓 All my **knowledge** is open-source
+- 🔓 All my [**knowledge**](https://github.com/szepeviktor/debian-server-tools#readme) is open-source
 - ⚙️ I'm not a developer (I support development)
 - ⚗️ Janitor at Larastan: static analysis for Laravel
 - ⛏️ Author of WordPress extension for PHPStan
