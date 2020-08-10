@@ -14,4 +14,5 @@ I work for web application manufacturers.
 - ⚙️ I'm not a developer (I support development)
 - ⚗️ Janitor at Larastan: static analysis for Laravel
 - ⛏️ Author of WordPress extension for PHPStan
+- 🌳 PHP stubs carver @php-stubs
 - 🌐 Former WP-CLI contributor
