@@ -2,7 +2,7 @@
 
 # Jó napot kívánok! 👋
 
-I work for web application manufacturers. #SaaS
+I work for web application manufacturers like you. #SaaS
 
 - 👹 Harmful to your business in the short run
 - 💡 Super useful in the long run
