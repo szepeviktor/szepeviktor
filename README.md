@@ -4,17 +4,14 @@
 
 I work for web application manufacturers like you. #SaaS
 
-- 👹 Harmful to your business in the short run
-- 💡 Super useful in the long run
-- 🕒 Working non-stop
-- 🔍 **Researching** all areas of planning, development, running a web application
-- 🎯 Focusing on **Sustainability**
-- 🍇 Fruits: stability, security, performance, paranoid monitoring
-- 🔓 All my [**knowledge**](https://github.com/szepeviktor/debian-server-tools#readme) is open-source
-- ⚙️ I'm not a developer (I support development)
+Viktor is a thinker (who looks like a DevOps person).
+
+- 🏆 You get all my [**research results**](https://github.com/szepeviktor/debian-server-tools#readme) for free! (not opinions)
+- 🕒 Non-stop support (actually error prevention is so advanced that you need no support)
+- 🎯 Focusing on **safe operations**
 - ⚗️ Janitor at Larastan: static analysis for Laravel
-- ⛏️ Author of WordPress extension for PHPStan
-- 🌳 PHP stubs carver @php-stubs
+- ⛏️ Author of [WordPress extension for PHPStan](https://packagist.org/packages/szepeviktor/phpstan-wordpress/stats)
+- 🌳 PHP stubs carver [@php-stubs](https://github.com/php-stubs/)
 - 🌐 Former WP-CLI contributor
 
 ---
