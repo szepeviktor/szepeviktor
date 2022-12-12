@@ -14,6 +14,6 @@ Viktor is a thinker (who looks like a DevOps person).
 - 🌳 PHP stubs carver [@php-stubs](https://github.com/php-stubs/)
 - 🌐 Former WP-CLI contributor
 
----
+## Monitor + Research + Document
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szepeviktor)](https://github.com/pulls?q=author%3Aszepeviktor+sort%3Aupdated-desc)
