@@ -2,7 +2,7 @@
 
 # Jó napot kívánok! 👋
 
-I work for web application manufacturers like you. #SaaS
+I make your web application's life happy. #SaaS
 
 Viktor is a thinker (who looks like a DevOps person).
 
