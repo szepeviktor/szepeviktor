@@ -12,6 +12,7 @@ Viktor is a proactive DevOps person.
 - ⚗️ Janitor at Larastan: static analysis for Laravel
 - ⛏️ Author of [WordPress extension for PHPStan](https://packagist.org/packages/szepeviktor/phpstan-wordpress/stats)
 - 🌳 PHP stubs carver [@php-stubs](https://github.com/php-stubs/)
+- 🏃‍♂️ Ready for work for you 🏃‍♂️
 
 ### How I work
 
