@@ -4,7 +4,7 @@
 
 I make your web application's life happy. #SaaS
 
-Viktor is a proactive DevOps person.
+Viktor is a proactive DevOps person 🧹 janitor of code for teams.
 
 - 🏆 You get [research results](https://github.com/szepeviktor/debian-server-tools#readme) not opinions
 - 🕒 Non-stop support (actually error prevention is so advanced that you barely need support)
