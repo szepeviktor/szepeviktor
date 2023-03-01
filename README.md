@@ -3,7 +3,7 @@
 # Jó napot kívánok! 👋
 
 I make your web application's life happy.  
-📡 Operator for hire, Premium DevOps services from Viktor for `#SaaS` and open-source packages
+📡 Seasoned Operator for hire, DevOps services from a detail-oriented person for `#SaaS` and open-source packages.
 
 - 🎯 Focusing on **safe, long-term operations**
 - 🕒 Non-stop support: incidents are rare and easy to resolve
