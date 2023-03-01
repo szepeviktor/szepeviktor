@@ -8,21 +8,37 @@ I make your web application's life happy.
 |     | Expertise |     |
 | --- |:---------:| --- |
 | money | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&emsp; | the joy of work |
+| independent work | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&mdash;&emsp; | team member |
 | 2 month project | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp; | 5 year project |
+| cutting edge technologies | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | proven technologies |
 | done ASAP | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&emsp; | operational safety |
 | fixing future errors later | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&mdash;&emsp; | proactive work |
 | use Stack Overflow | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | months-long research |
 
+Ready for work for you today 🏃‍♂️
 
-- 🎯 Focusing on **safe, long-term operations**
-- 🕒 Non-stop support: incidents are rare and easy to resolve
-- 🏆 You get [research results](https://github.com/szepeviktor/debian-server-tools#readme), not opinions
+[Contact me](mailto:viktor@szepe.net) today!
+
+Sponsor me monthly if you use my packages.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-FFEFF7)](https://github.com/sponsors/szepeviktor)
+
+## Open-source contributions
+
+- 🤯 3000-4000 contributions yearly
 - ⚗️ Janitor at Larastan: static analysis for Laravel
 - ⛏️ Author of [WordPress extension for PHPStan](https://packagist.org/packages/szepeviktor/phpstan-wordpress/stats)
 - 🌳 PHP stubs carver [@php-stubs](https://github.com/php-stubs/)
-- Ready for work for you today 🏃‍♂️
 
-## How I work
+## Depth of care
+
+- Being in contact with server software authors
+- Being in close contact with authors of web application dependencies
+- Working together with/for service providers
+- Taking part in the relevant ecosystem
+- Reading standards and documentation
+
+## Incident handling
 
 1. Monitoring web applications
 2. Researching the root cause of incidents
@@ -30,15 +46,12 @@ I make your web application's life happy.
 4. Software implementation
 5. Documenting everything
 
-## Hard to believe activities
+## Fun facts
 
-- Reading webserver log excerpts in the morning
-- Being in contact with server software authors
-- Being in close contact with authors of web application dependencies
-- Working together with service providers
-- Taking part in the relevant ecosystem
-- Reading documentation thoroughly
-- Experimenting with unknown technologies to know them
-- Publishing all - really all - my findings here on GitHub
+- 🎈 Reading webserver log excerpts in the morning
+- 🎈 Experimenting with unknown technologies to know them
+- 🎈 Publishing all - really all - my findings here on GitHub
+
+<br>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szepeviktor)](https://github.com/pulls?q=author%3Aszepeviktor+sort%3Aupdated-desc)
