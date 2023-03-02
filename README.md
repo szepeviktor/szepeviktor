@@ -13,7 +13,7 @@ I make your web application's life happy.
 | cutting edge technologies | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | proven technologies |
 | done ASAP | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&emsp; | operational safety |
 | fixing future errors later | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&mdash;&emsp; | proactive work |
-| use Stack Overflow | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | months-long research |
+| search Stack Overflow | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | months-long research |
 
 Ready for work for you today 🏃‍♂️
 
