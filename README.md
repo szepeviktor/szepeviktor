@@ -21,7 +21,7 @@ Ready for work for you today 🏃‍♂️
 
 Sponsor me monthly if you use my packages.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-FFEFF7)](https://github.com/sponsors/szepeviktor)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ffeff7)](https://github.com/sponsors/szepeviktor)
 
 ## Open-source contributions
 
@@ -32,13 +32,15 @@ Sponsor me monthly if you use my packages.
 
 ## Depth of care
 
-- Being in contact with server software authors
-- Being in close contact with authors of web application dependencies
 - Working together with/for service providers
 - Taking part in the relevant ecosystem
 - Reading standards and documentation
+- Being in close contact with authors of web application dependencies (packages)
+- Being in contact with server software authors
 
 ## Incident handling
+
+Incidents are rare and easy to resolve.
 
 1. Monitoring web applications
 2. Researching the root cause of incidents
