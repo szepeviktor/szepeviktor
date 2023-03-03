@@ -21,9 +21,9 @@ Ready for work for you today 🏃‍♂️
 
 [Contact me](mailto:viktor@szepe.net) today!
 
-Sponsor me monthly if you use my packages.
+Please consider sponsoring me monthly if you use my packages in an agency.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ffeff7)](https://github.com/sponsors/szepeviktor)
+[![Sponsor](https://github.com/szepeviktor/.github/raw/master/.github/assets/github-like-sponsor-button.svg)](https://github.com/sponsors/szepeviktor)
 
 ## Open-source contributions
 
