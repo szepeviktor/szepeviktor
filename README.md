@@ -9,12 +9,13 @@ I make your web application's life happy.
 
 |     | Expertise |     |
 | --- |:---------:| --- |
-| money | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&emsp; | the joy of work |
+| hotfix guy | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp; | strategic thinking |
 | ad-hoc manner, case-by-case basis | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | well-defined policies |
-| 2 month project | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp; | 5 year project |
-| cutting edge technologies | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | proven technologies |
 | done ASAP | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&emsp; | operational safety |
 | fixing future errors later | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&mdash;&emsp; | proactive work |
+| money | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&emsp; | the joy of work |
+| 2 month project | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp; | 5 year project |
+| cutting edge technologies | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | proven technologies |
 | search Stack Overflow | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | months-long research |
 
 Ready for work for you today 🏃‍♂️
