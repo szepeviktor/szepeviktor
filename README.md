@@ -7,16 +7,16 @@ I make your web application's life happy.
 
 <br>
 
-|     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expertise&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |     |
-| --- |:---------:| --- |
-| hotfix guy | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp; | strategic thinking |
-| ad-hoc manner, case-by-case basis | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | well-defined policies |
-| done ASAP | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&emsp; | operational safety |
-| fixing future errors later | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&mdash;&emsp; | proactive work |
-| money | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&emsp; | the joy of work |
-| 2 month project | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp; | 5 year project |
-| cutting edge technologies | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | proven technologies |
-| search Stack Overflow | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | months-long research |
+| Expertise |
+|:---------:|
+| ⮜&nbsp;hotfix guy<br>&emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp;<br>strategic thinking&nbsp;⮞ |
+| ⮜&nbsp;ad-hoc manner, case-by-case basis<br>&emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp;<br>well-defined policies&nbsp;⮞ |
+| ⮜&nbsp;done ASAP<br>&emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&emsp;<br>operational safety&nbsp;⮞ |
+| ⮜&nbsp;fixing future errors later<br>&emsp;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&mdash;&emsp;<br>proactive work&nbsp;⮞ |
+| ⮜&nbsp;money<br>&emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&emsp;<br>the joy of work&nbsp;⮞ |
+| ⮜&nbsp;2 month project<br>&emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp;<br>5 year project&nbsp;⮞ |
+| ⮜&nbsp;cutting edge technologies<br>&emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp;<br>proven technologies&nbsp;⮞ |
+| ⮜&nbsp;search Stack Overflow<br>&emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp;<br>months-long research&nbsp;⮞ |
 
 Ready for work for you today 🏃‍♂️
 
