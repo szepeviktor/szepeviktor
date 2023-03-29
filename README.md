@@ -7,7 +7,7 @@ I make your web application's life happy.
 
 <br>
 
-|     | Expertise |     |
+|     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expertise&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |     |
 | --- |:---------:| --- |
 | hotfix guy | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp; | strategic thinking |
 | ad-hoc manner, case-by-case basis | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | well-defined policies |
