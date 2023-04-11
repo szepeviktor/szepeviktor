@@ -55,7 +55,7 @@ Incidents are rare and easy to resolve.
 
 - 🎈 Reading webserver log excerpts in the morning
 - 🎈 Experimenting with unknown technologies to know them
-- 🎈 Publishing all - really all - my findings here on GitHub
+- 🎈 Publishing all &ndash; really all &ndash; my findings here on GitHub
 
 <br>
 
