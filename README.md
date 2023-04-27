@@ -59,8 +59,4 @@ Incidents are rare and easy to resolve.
 
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szepeviktor)](https://github.com/pulls?q=author%3Aszepeviktor+sort%3Aupdated-desc)
-
-<br>
-
 ![Visitor counter](https://szepe.net/counter/)
