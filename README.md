@@ -59,4 +59,4 @@ Incidents are rare and easy to resolve.
 
 <br>
 
-![Visitor counter](https://szepe.net/counter/)
+![Visitor counter](https://szepe.net/counter/?mobile)
