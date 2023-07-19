@@ -3,7 +3,7 @@
 # Jó napot kívánok! 👋
 
 I make your web application's life happy.  
-📡 Underlying technologies (DevOps services) with proactive byte-level care for `#SaaS` and `#opensource` packages.
+📡 Underlying technologies (DevOps services) with proactive byte-level care for `#SaaS` and `#opensource` packages.  
 I can help keeping potential problems, bugs and technical debt at zero.
 
 <br>
