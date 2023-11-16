@@ -2,22 +2,20 @@
 
 ## Jó napot kívánok! 👋
 
-I make your web application's life happy.  
-📡 Underlying technologies (DevOps services) with proactive byte-level care for `#SaaS` and `#opensource` packages.  
-I can help keeping potential problems, bugs and technical debt at zero.
+I make your web application's life happy.
 
-<br>
+### Viktor is a doer
 
-| [<sub><sup>mobile version</sup></sub>](https://github.com/szepeviktor/szepeviktor/blob/mobile/README.md#user-content-expertise) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expertise&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | |
-| --- |:---------:| --- |
-| hotfix guy | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp; | strategic thinking |
-| ad-hoc manner, case-by-case basis | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | well-defined policies |
-| done ASAP | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&emsp; | operational safety |
-| fixing future errors later | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&mdash;&emsp; | proactive work |
-| money | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&mdash;&mdash;&mdash;&emsp; | the joy of work |
-| 2 month project | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&emsp; | 5 year project |
-| cutting edge technologies | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | proven technologies |
-| search Stack Overflow | &emsp;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;:white_circle:&mdash;&emsp; | months-long research |
+- 📡 DevOps services
+- Quality Assurance (CI)
+
+### Viktor is a thinker
+
+- Covers the whole lifecycle of the web application
+- Focuses on the _unhappy path_ (error prevention, technical debt)
+- Knows underlying technologies down to byte level
+  
+`#SaaS` `#opensource`
 
 Ready for work for you today 🏃‍♂️
 
