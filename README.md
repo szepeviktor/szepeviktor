@@ -8,12 +8,13 @@ I make your web application's life happy.
 
 - 📡 DevOps services
 - Quality Assurance (CI)
+- Underlying technologies (that is the huge submerged part of the iceberg, right below business features)
 
 ### Viktor is a thinker
 
 - Covers the whole lifecycle of the web application
 - Focuses on the _unhappy path_ (error prevention, technical debt)
-- Knows underlying technologies down to byte level
+- Knows technologies down to byte level
   
 `#SaaS` `#opensource`
 
