@@ -34,7 +34,7 @@ Please consider sponsoring me monthly if you use my packages in an agency.
 
 ## Open-source contributions
 
-- 🤯 3000-4000 contributions yearly
+- 🤯 5000-6000 contributions yearly
 - ⚗️ Janitor at Larastan: static analysis for Laravel
 - ⛏️ Author of [WordPress extension for PHPStan](https://packagist.org/packages/szepeviktor/phpstan-wordpress/stats)
 - 🌳 PHP stubs carver [@php-stubs](https://github.com/php-stubs/)
