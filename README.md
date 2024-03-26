@@ -1,9 +1,3 @@
-@ramsey needs a job. "I’m currently unemployed with no income, so all my focus for the last 3 months has been on finding a job."
-
-Contact Ben if you need a coder: https://github.com/ramsey
-
----
-
 ## Good day! 👋
 
 ## Jó napot kívánok! 👋
